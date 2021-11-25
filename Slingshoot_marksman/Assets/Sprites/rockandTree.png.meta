@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 9e54f545081f34843a833224be593cf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7678930238092036060
+    second: rockandTree_0
+  - first:
+      213: 8404789457582049994
+    second: rockandTree_1
+  - first:
+      213: -2125257704504180114
+    second: rockandTree_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 3
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rockandTree_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 304
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 85}
+        - {x: 107, y: 118}
+        - {x: 138, y: 176}
+        - {x: 103, y: 176}
+        - {x: 81, y: 140}
+        - {x: 82, y: 125}
+        - {x: 82, y: 119}
+        - {x: 83, y: 111}
+        - {x: 83, y: 114}
+        - {x: 82, y: 126}
+        - {x: 81, y: 132}
+        - {x: 78, y: 154}
+        - {x: 76, y: 161}
+        - {x: 63, y: 176}
+        - {x: 19, y: 176}
+        - {x: -44, y: 173}
+        - {x: -77, y: 131}
+        - {x: -88, y: 82}
+        - {x: -49, y: 72}
+        - {x: -1, y: 86}
+        - {x: 21, y: 54}
+        - {x: 33, y: 20}
+        - {x: 25, y: 9}
+        - {x: 19, y: -16}
+        - {x: -6, y: -31}
+        - {x: -29, y: -47}
+        - {x: -54, y: -55}
+        - {x: -76, y: -63}
+        - {x: -90, y: -68}
+        - {x: -107, y: -81}
+        - {x: -125, y: -94}
+        - {x: -141, y: -114}
+        - {x: -153, y: -137}
+        - {x: -143, y: -152}
+        - {x: -86, y: -157}
+        - {x: -55, y: -158}
+        - {x: 141, y: -154}
+        - {x: 153, y: -141}
+        - {x: 148, y: -113}
+        - {x: 115, y: -89}
+        - {x: 97, y: -77}
+        - {x: 76, y: -55}
+        - {x: 64, y: -50}
+        - {x: 60, y: -22}
+        - {x: 70, y: 37}
+        - {x: 100, y: 49}
+        - {x: 87, y: 73}
+      - - {x: -168, y: 60}
+        - {x: -196, y: 58}
+        - {x: -196, y: 19}
+        - {x: -166, y: 18}
+      physicsShape:
+      - - {x: 44, y: 150}
+        - {x: 53, y: 150}
+        - {x: 40, y: 150}
+        - {x: 33, y: 144}
+        - {x: 29, y: 138}
+        - {x: 25, y: 126}
+        - {x: 37, y: 111}
+        - {x: 31, y: 82}
+        - {x: 19, y: 164}
+        - {x: 13, y: 176}
+        - {x: -30, y: 176}
+        - {x: -68, y: 137}
+        - {x: -89, y: 96}
+        - {x: -69, y: 70}
+        - {x: -5, y: 81}
+        - {x: 23, y: 42}
+        - {x: 34, y: 16}
+        - {x: 23, y: -9}
+        - {x: -19, y: -38}
+        - {x: -67, y: -41}
+        - {x: -117, y: -81}
+        - {x: -151, y: -94}
+        - {x: -150, y: -148}
+        - {x: -97, y: -156}
+        - {x: 58, y: -156}
+        - {x: 152, y: -148}
+        - {x: 152, y: -58}
+        - {x: 97, y: 176}
+        - {x: 44, y: 176}
+        - {x: 35, y: 154}
+      - - {x: 49, y: 37}
+        - {x: 48, y: 40}
+        - {x: 46, y: 41}
+        - {x: 45, y: 45}
+        - {x: 44, y: 46}
+        - {x: 44, y: 48}
+        - {x: 43, y: 49}
+        - {x: 43, y: 52}
+        - {x: 44, y: 53}
+        - {x: 44, y: 59}
+        - {x: 43, y: 61}
+        - {x: 45, y: 64}
+        - {x: 45, y: 67}
+        - {x: 44, y: 65}
+        - {x: 49, y: 59}
+        - {x: 53, y: 57}
+        - {x: 54, y: 56}
+        - {x: 54, y: 52}
+        - {x: 53, y: 50}
+        - {x: 54, y: 49}
+        - {x: 54, y: 37}
+        - {x: 55, y: 36}
+        - {x: 55, y: 30}
+        - {x: 55, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca402f2b7fc3a470800000000000000
+      internalID: 8404789457582049994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockandTree_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 257
+        width: 192
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 20}
+        - {x: -96, y: 19}
+        - {x: -96, y: -20}
+        - {x: -75, y: -20}
+        - {x: 76, y: -20}
+        - {x: 96, y: -14}
+        - {x: 96, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74b78ed5a019a60800000000000000
+      internalID: 7678930238092036060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockandTree_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 219
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.5, y: 38.5}
+        - {x: -109.5, y: 2.5}
+        - {x: -102.5, y: -13.5}
+        - {x: -48.5, y: -38.5}
+        - {x: 40.5, y: -37.5}
+        - {x: 67.5, y: -17.5}
+        - {x: 87.5, y: -2.5}
+        - {x: 109.5, y: 12.5}
+        - {x: 109.5, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62cddab0619182e0800000000000000
+      internalID: -2125257704504180114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
